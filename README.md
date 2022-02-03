@@ -1,292 +1,99 @@
+*   [Books](#books)
+*   [Linux](#linux)
+*   [Learning](#learning)
 
-    <nav>
-      <ul style="list-style-type: none; padding: 4px">
-        <li style="display: inline">
-          <a style="text-decoration: none; padding: 4px" href="#books">Books</a>
-        </li>
-        <li style="display: inline">
-          <a style="text-decoration: none; padding: 4px" href="#linux">Linux</a>
-        </li>
-        <li style="display: inline">
-          <a style="text-decoration: none; padding: 4px" href="#learning"
-            >Learning</a
-          >
-        </li>
-      </ul>
-    </nav>
-    <h1>
-      <a href="https://portfolio.studio42dev.com"
-        ><img
-          src="assets/dog_selfie.jpg"
-          width="120px"
-          style="border-radius: 8px" /></a
-      >Hi, I'm Greg and I like to make things
-    </h1>
+[![](assets/dog_selfie.jpg)](https://portfolio.studio42dev.com)Hi, I'm Greg and I like to make things
+=====================================================================================================
 
-    <h2>My Journey</h2>
+My Journey
+----------
 
-    <hr />
-    <p>
-      I started learning to code in the summer of 2016 when I took a course from
-      EdX called LFS 101 - Linux for Starters. I enjoyed coding and decided I'd
-      learn HTML, CSS, and JavaScript. I spent a year learning vanilla JS and
-      CSS before moving on to jQuery and Bootstrap so I knew what was happening
-      <em>under the hood</em>. It wasn't long before I started learning Git and
-      GitHub.
-    </p>
+* * *
 
-    <p>
-      Being a single father who worked 12 hour days, I didn't have a lot of time
-      to devote to learning. However, I built several projects, some of which
-      you can view on
-      <a href="https://portfolio.studio42dev.com">my portfolio</a>, and earned
-      the following certifications from freeCodeCamp during that time:
-    </p>
+I started learning to code in the summer of 2016 when I took a course from EdX called LFS 101 - Linux for Starters. I enjoyed coding and decided I'd learn HTML, CSS, and JavaScript. I spent a year learning vanilla JS and CSS before moving on to jQuery and Bootstrap so I knew what was happening _under the hood_. It wasn't long before I started learning Git and GitHub.
 
-    <table>
-      <tbody>
-        <tr>
-          <td>
-            <img
-              src="assets/certificate.svg"
-              style="height: 36px"
-              alt="certificate icon"
-            />
-          </td>
-          <td>
-            <a
-              href="https://www.freecodecamp.org/certification/bus42/legacy-front-end"
-              >Front End (Legacy)</a
-            >
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <img
-              src="assets/certificate.svg"
-              style="height: 36px"
-              alt="certificate icon"
-            />
-          </td>
-          <td>
-            <a
-              href="https://www.freecodecamp.org/certification/bus42/front-end-development-libraries"
-              >Front End Development Libraries</a
-            >
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <img
-              src="assets/certificate.svg"
-              style="height: 36px"
-              alt="certificate icon"
-            />
-          </td>
-          <td>
-            <a
-              href="https://www.freecodecamp.org/certification/bus42/responsive-web-design"
-              >Responsive Web Design</a
-            >
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <img
-              src="assets/certificate.svg"
-              style="height: 36px"
-              alt="certificate icon"
-            />
-          </td>
-          <td>
-            <a
-              href="https://www.freecodecamp.org/certification/bus42/javascript-algorithms-and-data-structures"
-              >JavaScript Algorithms and Data Structures</a
-            >
-          </td>
-        </tr>
-      </tbody>
-    </table>
+Being a single father who worked 12 hour days, I didn't have a lot of time to devote to learning. However, I built several projects, some of which you can view on [my portfolio](https://portfolio.studio42dev.com), and earned the following certifications from freeCodeCamp during that time:
 
-    <p>
-      Since then, my kids have grown and I have focused on JavaScript
-      development in React and Node in a Linux environment. I spent long enough
-      learning on my own and am now a student at Bloom Institute of Technology
-      studying computer science and full-stack development with a focus on
-      React, Node, SQL, and Agile methodologies.
-    </p>
+![certificate icon](assets/certificate.svg)
 
-    <p>
-      While completing my education, I am freelancing as
-      <a href="https://studio42dev.com">Studio42 Dev</a>. I build small
-      websites, apps, and other projects for clients. My latest project is a
-      serverless app that is built with React and ChakraUI and is deployed on
-      Vercel.
-    </p>
+[Front End (Legacy)](https://www.freecodecamp.org/certification/bus42/legacy-front-end)
 
-    <h2>About Me</h2>
+![certificate icon](assets/certificate.svg)
 
-    <hr />
+[Front End Development Libraries](https://www.freecodecamp.org/certification/bus42/front-end-development-libraries)
 
-    <table style="border-spacing: 4px">
-      <tbody>
-        <tr>
-          <td>
-            <img
-              src="assets/SCBAwhat.jpeg"
-              width="120px"
-              style="border-radius: 8px"
-            />
-          </td>
-          <td>
-            <p>
-              I live in a tiny little town of just over 150 people and volunteer
-              on my local fire department. I am trained in CPR, Basic Life
-              Support, and first aid as well as extrication and traffic incident
-              management. As it turns out, I can still manage to look goofy in
-              structural gear.
-            </p>
-            <p>
-              I'm a Linux fan but I like to play games too, and while you can
-              play most titles on Linux, you can't play them all so I dual-boot
-              on my PC. Also, I must like suffering because I dual-boot on my PC
-              _and_ do my own mechanical work on my Volkswagen.
-            </p>
-          </td>
-        </tr>
-      </tbody>
-    </table>
+![certificate icon](assets/certificate.svg)
 
-    <h3>Some of my favorite books</h3>
+[Responsive Web Design](https://www.freecodecamp.org/certification/bus42/responsive-web-design)
 
-    <table style="border-spacing: 4px">
-      <tbody>
-        <tr>
-          <td><img src="assets/book.png" alt="book icon" width="40px" /></td>
-          <td>Dune</td>
-        </tr>
-        <tr>
-          <td><img src="assets/book.png" alt="book icon" width="40px" /></td>
-          <td>Hitchhikers Guide to the Galaxy</td>
-        </tr>
-        <tr>
-          <td><img src="assets/book.png" alt="book icon" width="40px" /></td>
-          <td>War and Peace</td>
-        </tr>
-      </tbody>
-    </table>
+![certificate icon](assets/certificate.svg)
 
-    <p>
-      I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love
-      cooking, and not cooking. I love to sing. I've only seen the first three
-      Harry Potter movies, and I'm good with that. I vehemently dislike
-      auto-tune, reality TV, and that plastic film that my friends never take
-      off of their electronics.
-    </p>
+[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/bus42/javascript-algorithms-and-data-structures)
 
-    <h3>My favorite Linux distros</h3>
+Since then, my kids have grown and I have focused on JavaScript development in React and Node in a Linux environment. I spent long enough learning on my own and am now a student at Bloom Institute of Technology studying computer science and full-stack development with a focus on React, Node, SQL, and Agile methodologies.
 
-    <table style="border-spacing: 4px">
-      <tbody>
-        <tr>
-          <td>
-            <img
-              src="assets/SeekPng.com_fedora-png_2071630.png"
-              style="height: 36px; display: inline-block"
-              alt="Fedora Linux Logo"
-            />
-          </td>
-          <td>
-            <a href="https://getfedora.org/">Fedora</a> (RHEL) with KDE Plasma
-            Desktop - My daily driver. Beautiful, powerful, and easy to use. No
-            wonder Linus uses it.
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <img
-              src="assets/Ubuntu_Budgie_No_Wordmark.svg"
-              style="height: 36px; display: inline-block"
-              alt="Ubuntu Budgie Logo"
-            />
-          </td>
-          <td>
-            <a href="https://ubuntubudgie.org">Ubuntu Budgie</a> Highly
-            customizable and easy to use with some really nice quality of life
-            features.
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <img
-              src="/assets/Garuda-blue-sgs.svg"
-              style="height: 36px; display: inline-block"
-              alt="Garuda Linux Logo"
-            />
-          </td>
-          <td>
-            <a href="https://garudalinux.org/index.html">Garuda</a> KDE
-            Dr460nized (Arch) - The OS made for Linux Gamers
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <img
-              src="/assets/Manjaro-logo.svg"
-              style="height: 36px; display: inline-block"
-              alt="Manjaro Linux logo"
-            />
-          </td>
-          <td>
-            <a href="https://manjaro.org/">Manjaro</a> (Arch) Gnome - Highly
-            polished and easy to use Arch distro.
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <img
-              src="/assets/peppermint_os.png"
-              style="height: 36px; display: inline-block"
-              alt="Peppermint OS logo"
-            />
-          </td>
-          <td>
-            <a href="https://peppermintos.com/">PeppermintOS</a> (Debian) -
-            Super lightweight, yet powerful and fully featured. I run this on
-            one of my decade+ old computers, of which I have a few - can't seem
-            to get rid of them.
-          </td>
-        </tr>
-      </tbody>
-    </table>
+While completing my education, I am freelancing as [Studio42 Dev](https://studio42dev.com). I build small websites, apps, and other projects for clients. My latest project is a serverless app that is built with React and ChakraUI and is deployed on Vercel.
 
-    <h2>Some of my favorite people and resources for learning:</h2>
+About Me
+--------
 
-    <hr />
+* * *
 
-    <ul style="list-style-type: none">
-      <li><a href="https://www.freecodecamp.org">freeCodeCamp</a></li>
-      <li><a href="https://wesbos.com">Wes Bos</a></li>
-      <li>
-        <a href="https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg"
-          >The Net Ninja</a
-        >
-      </li>
-      <li><a href="https://www.edx.org">EdX</a></li>
-      <li><a href="https://www.khanacademy.org">Khan Academy</a></li>
-      <li>
-        <a href="https://www.linuxfoundation.org">The Linux Foundation</a>
-      </li>
-      <li>
-        <a href="https://github.com/getify/You-Dont-Know-JS"
-          >You Don't Know JS</a
-        >
-      </li>
-      <li><a href="https://eloquentjavascript.net">Eloquent JavaScript</a></li>
-      <li>
-        <a href="https://m.youtube.com/c/WebDevSimplified"
-          >Web Dev Simplified</a
-        >
-      </li>
-    </ul>
-    
+![](assets/SCBAwhat.jpeg)
+
+I live in a tiny little town of just over 150 people and volunteer on my local fire department. I am trained in CPR, Basic Life Support, and first aid as well as extrication and traffic incident management. As it turns out, I can still manage to look goofy in structural gear.
+
+I'm a Linux fan but I like to play games too, and while you can play most titles on Linux, you can't play them all so I dual-boot on my PC. Also, I must like suffering because I dual-boot on my PC \_and\_ do my own mechanical work on my Volkswagen.
+
+### Some of my favorite books
+
+![book icon](assets/book.png)
+
+Dune
+
+![book icon](assets/book.png)
+
+Hitchhikers Guide to the Galaxy
+
+![book icon](assets/book.png)
+
+War and Peace
+
+I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking, and not cooking. I love to sing. I've only seen the first three Harry Potter movies, and I'm good with that. I vehemently dislike auto-tune, reality TV, and that plastic film that my friends never take off of their electronics.
+
+### My favorite Linux distros
+
+![Fedora Linux Logo](assets/SeekPng.com_fedora-png_2071630.png)
+
+[Fedora](https://getfedora.org/) (RHEL) with KDE Plasma Desktop - My daily driver. Beautiful, powerful, and easy to use. No wonder Linus uses it.
+
+![Ubuntu Budgie Logo](assets/Ubuntu_Budgie_No_Wordmark.svg)
+
+[Ubuntu Budgie](https://ubuntubudgie.org) Highly customizable and easy to use with some really nice quality of life features.
+
+![Garuda Linux Logo](/assets/Garuda-blue-sgs.svg)
+
+[Garuda](https://garudalinux.org/index.html) KDE Dr460nized (Arch) - The OS made for Linux Gamers
+
+![Manjaro Linux logo](/assets/Manjaro-logo.svg)
+
+[Manjaro](https://manjaro.org/) (Arch) Gnome - Highly polished and easy to use Arch distro.
+
+![Peppermint OS logo](/assets/peppermint_os.png)
+
+[PeppermintOS](https://peppermintos.com/) (Debian) - Super lightweight, yet powerful and fully featured. I run this on one of my decade+ old computers, of which I have a few - can't seem to get rid of them.
+
+Some of my favorite people and resources for learning:
+------------------------------------------------------
+
+* * *
+
+*   [freeCodeCamp](https://www.freecodecamp.org)
+*   [Wes Bos](https://wesbos.com)
+*   [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+*   [EdX](https://www.edx.org)
+*   [Khan Academy](https://www.khanacademy.org)
+*   [The Linux Foundation](https://www.linuxfoundation.org)
+*   [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+*   [Eloquent JavaScript](https://eloquentjavascript.net)
+*   [Web Dev Simplified](https://m.youtube.com/c/WebDevSimplified)
