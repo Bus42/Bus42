@@ -114,7 +114,7 @@ While completing my education, I am freelancing as [Studio42 Dev](https://studio
 
 ---
 
-### Some of my favorite books
+### Some of My Favorite Books
 
 <table style="border-spacing: 4px" width="100%">
     <tbody>
@@ -143,7 +143,7 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
 
 ---
 
-### My favorite Linux distros
+### My Favorite Linux Distros
 
 <table style="border-spacing: 4px">
       <tbody>
@@ -236,7 +236,7 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
 
 ---
 
-### My favorite libraries
+### My Favorite Libraries
 
 <table>
   <tr>
@@ -354,7 +354,7 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
 
 ---
 
-### Some of my favorite people and resources for learning
+### Some of My Favorite People and Resources for Learning
 This is anything but an exhaustive list.
 
 - [freeCodeCamp](https://www.freecodecamp.org)
