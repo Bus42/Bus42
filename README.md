@@ -6,13 +6,13 @@ I started learning to code in 2016 when I took a course from EdX called LFS 101 
 
 Being a single father who worked 12 hour days, I didn't have a lot of time to devote to learning. However, I built several projects, some of which you can view on [my portfolio](https://portfolio.studio42dev.com), and earned the following certifications from freeCodeCamp during that time:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Certificate%2889083%29-TheNounProject.svg" width="45px" > [Front End (Legacy)](https://www.freecodecamp.org/certification/bus42/legacy-front-end)
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Certificate_%2889083%29_-_The_Noun_Project.svg" width="45px" > [Front End (Legacy)](https://www.freecodecamp.org/certification/bus42/legacy-front-end)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Certificate%2889083%29-TheNounProject.svg" width="45px" > [Front End Development Libraries](https://www.freecodecamp.org/certification/bus42/front-end-development-libraries)
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Certificate_%2889083%29_-_The_Noun_Project.svg" width="45px" > [Front End Development Libraries](https://www.freecodecamp.org/certification/bus42/front-end-development-libraries)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Certificate%2889083%29-TheNounProject.svg" width="45px" > [Responsive Web Design](https://www.freecodecamp.org/certification/bus42/responsive-web-design)
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Certificate_%2889083%29_-_The_Noun_Project.svg" width="45px" > [Responsive Web Design](https://www.freecodecamp.org/certification/bus42/responsive-web-design)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Certificate%2889083%29-TheNounProject.svg" width="45px" > [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/bus42/javascript-algorithms-and-data-structures)
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Certificate_%2889083%29_-_The_Noun_Project.svg" width="45px" > [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/bus42/javascript-algorithms-and-data-structures)
 
 Since then, my kids have grown and I have focused on JavaScript development in React and Node in a Linux environment. I spent long enough learning on my own and am now a student at Bloom Institute of Technology studying computer science and full-stack development with a focus on React, Node, SQL, and Agile methodologies.
 
