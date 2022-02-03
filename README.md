@@ -90,7 +90,7 @@ While completing my education, I am freelancing as [Studio42 Dev](https://studio
             <td>
                 <img
                   src="assets/SCBAwhat.jpeg"
-                  width="300px"
+                  width="360px"
                   style="border-radius: 8px"
                 />
             </td>
