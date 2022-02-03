@@ -1,5 +1,5 @@
-| [About](#about) | [Books](#books) | [Linux](#linux) | [Learning](#learning) |
-| :-------------: | :-------------: | :-------------: | :-------------------: |
+| [About](#about) | [Books](#books) | [Linux](#linux) | [Libraries](#libraries) | [Resources](#resources) |
+| :-------------: | :-------------: | :-------------: | :-------------------: | :-------------------: |
 
 # <table style="border-spacing: 4px" width="100%"><tr><td><img src="assets/dog_selfie.jpg" width="120px" style="border-radius: 8px" /></td><td>Hi, I'm Greg and I like to make things</td></tr></table>
 
@@ -218,8 +218,124 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
         </tr>
       </tbody>
     </table>
+<a name="libraries"></a>
+---
 
-<a name="learning"></a>
+### Some of my favorite libraries
+
+<table>
+  <tr>
+    <td>
+      <img
+        src="assets/react.svg"
+        style="width: 80px; display: inline-block"
+        alt="React Logo"
+      />
+    </td>
+    <td>
+      <a href="https://reactjs.org/">React</a>
+    </td>
+    <td>
+    The best JavaScript library
+      for building user interfaces.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img 
+        src="assets/chakra.png"
+        style="width: 80px; display: inline-block"
+        alt="Chakra Logo"
+      />
+    </td>
+    <td>
+      <a href="https://chakra-ui.com/">Chakra UI</a>
+    </td>
+    <td>
+      A beautiful, accessible, and performant UI library for React.
+    </td>
+  </tr>
+    <tr>
+        <td>
+        <img
+            src="assets/materialize.svg"
+            style="width: 80px; display: inline-block"
+            alt="Materialize Logo"
+        />
+        </td>
+        <td>
+        <a href="https://materializecss.com/">Materialize CSS</a>
+        </td>
+        <td>
+        A responsive, mobile-first front-end framework based on Material Design.
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <img
+            src="assets/nodejs.svg"
+            style="width: 80px; display: inline-block"
+            alt="Express.js Logo"
+        />
+        </td>
+        <td>
+        <a href="https://expressjs.com/">Express.js</a>
+        </td>
+        <td>
+        A minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+        </td>
+    </tr>
+    <!-- Sass -->
+    <tr>
+        <td>
+        <img
+            src="assets/sass.svg"
+            style="width: 80px; display: inline-block"
+            alt="Sass Logo"
+        />
+        </td>
+        <td>
+        <a href="https://sass-lang.com/">Sass</a>
+        </td>
+        <td>
+        A CSS pre-processor, written in Ruby.
+        </td>
+    </tr>
+    <!-- GSAP -->
+    <tr>
+        <td>
+        <img
+            src="assets/gsap.svg"
+            style="width: 80px; display: inline-block"
+            alt="GSAP Logo"
+        />
+        </td>
+        <td>
+        <a href="https://greensock.com/gsap-js/">GSAP</a>
+        </td>
+        <td>
+        A library of animation and transformation effects for the web.
+        </td>
+    </tr>
+    <!-- knex.js -->
+    <tr>
+        <td>
+        <img
+            src="assets/knexjs.png"
+            style="width: 80px; display: inline-block"
+            alt="Knex.js Logo"
+        />
+        </td>
+        <td>
+        <a href="https://knexjs.org/">Knex.js</a>
+        </td>
+        <td>
+        A query builder for PostgreSQL, MySQL, MariaDB, SQLite and Microsoft SQL Server.
+        </td>
+    </tr>
+
+</table>
+<a name="resources"></a>
 
 ---
 
