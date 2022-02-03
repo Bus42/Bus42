@@ -142,7 +142,7 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
           <td>
             <img
               src="assets/fedora.png"
-              style="width: 50px; display: inline-block"
+              style="width: 80px; display: inline-block"
               alt="Fedora Linux Logo"
             />
           </td>
@@ -156,7 +156,7 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
           <td>
             <img
               src="assets/budgie.svg"
-              style="width: 50px; display: inline-block"
+              style="width: 80px; display: inline-block"
               alt="Ubuntu Budgie Logo"
             />
           </td>
@@ -170,7 +170,7 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
           <td>
             <img
               src="/assets/garuda.svg"
-              style="width: 50px; display: inline-block"
+              style="width: 80px; display: inline-block"
               alt="Garuda Linux Logo"
             />
           </td>
@@ -183,7 +183,7 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
           <td>
             <img
               src="/assets/manjaro.svg"
-              style="width: 50px; display: inline-block"
+              style="width: 80px; display: inline-block"
               alt="Manjaro Linux logo"
             />
           </td>
@@ -196,7 +196,7 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
           <td>
             <img
               src="/assets/peppermint.png"
-              style="width: 50px; display: inline-block"
+              style="width: 80px; display: inline-block"
               alt="Peppermint OS logo"
             />
           </td>
