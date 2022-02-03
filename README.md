@@ -114,6 +114,8 @@ While completing my education, I am freelancing as [Studio42 Dev](https://studio
 </table>
 <a name="books"></a>
 
+---
+
 ### Some of my favorite books
 
 <table style="border-spacing: 4px" width="100%">
@@ -136,6 +138,8 @@ While completing my education, I am freelancing as [Studio42 Dev](https://studio
 I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking, and not cooking. I love to sing. I've only seen the first three Harry Potter movies, and I'm good with that. I vehemently dislike auto-tune, reality TV, and that plastic film that my friends never take off of their electronics.
 
 <a name="linux"></a>
+
+---
 
 ### My favorite Linux distros
 
@@ -215,9 +219,9 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
 
 <a name="learning"></a>
 
-### Some of my favorite people and resources for learning
+---
 
-<hr/>
+### Some of my favorite people and resources for learning
 
 - [freeCodeCamp](https://www.freecodecamp.org)
 - [Wes Bos](https://wesbos.com)
