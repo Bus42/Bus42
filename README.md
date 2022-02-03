@@ -1,10 +1,9 @@
 | [About](#about) | [Books](#books) | [Linux](#linux) | [Learning](#learning) |
-| :--: | :--: | :--: | :--: |
+| :-------------: | :-------------: | :-------------: | :-------------------: |
 
 # <table style="border-spacing: 4px" width="100%"><tr><td><img src="assets/dog_selfie.jpg" width="120px" style="border-radius: 8px" /></td><td>Hi, I'm Greg and I like to make things</td></tr></table>
 
 My Journey
-
 
 I started learning to code in the summer of 2016 when I took a course from EdX called LFS 101 - Linux for Starters. I enjoyed coding and decided I'd learn HTML, CSS, and JavaScript. I spent a year learning vanilla JS and CSS before moving on to jQuery and Bootstrap so I knew what was happening _under the hood_. It wasn't long before I started learning Git and GitHub.
 
@@ -80,6 +79,7 @@ While completing my education, I am freelancing as [Studio42 Dev](https://studio
 <a name="about"></a>
 
 ---
+
 ## About Me
 
 <table style="border-spacing: 4px" width="100%">
@@ -120,15 +120,19 @@ While completing my education, I am freelancing as [Studio42 Dev](https://studio
     <tbody>
         <tr>
           <td><img src="assets/book.png" alt="book icon" width="40px" /></td>
-          <td>Dune</td>
+          <td><a href="https://en.wikipedia.org/wiki/Dune_(novel)" >Dune</a></td>
         </tr>
         <tr>
           <td><img src="assets/book.png" alt="book icon" width="40px" /></td>
-          <td>Hitchhikers Guide to the Galaxy</td>
+          <td><a href="https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(novel)" >Hitchhikers Guide to the Galaxy</a></td>
         </tr>
         <tr>
           <td><img src="assets/book.png" alt="book icon" width="40px" /></td>
-          <td>War and Peace</td>
+          <td><a href="https://en.wikipedia.org/wiki/War_and_Peace" >War and Peace</a></td>
+        </tr>
+        <tr>
+          <td><img src="assets/book.png" alt="book icon" width="40px" /></td>
+          <td><a href="https://en.wikipedia.org/wiki/The_Pearl_(novella)" >The Pearl</a></td>
         </tr>
     </tbody>
 </table>
