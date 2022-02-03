@@ -106,7 +106,7 @@ While completing my education, I am freelancing as [Studio42 Dev](https://studio
               I'm a Linux fan but I like to play games too, and while you can
               play most titles on Linux, you can't play them all so I dual-boot
               on my PC. Also, I must like suffering because I dual-boot on my PC
-              _and_ do my own mechanical work on my Volkswagen.
+              <em>and</em> do my own mechanical work on my Volkswagen.
             </p>
           </td>
         </tr>
