@@ -35,9 +35,9 @@ I love cooking, and not cooking.
 
 I love to sing.
 
-I've only seen the first three Harry Potter movies.
+I've only seen the first three Harry Potter movies, and I'm good with that.
 
-I vehemently dislike autotune, reality tv, and that plastic film that my friends never take off of their electronics.
+I vehemently dislike auto-tune, reality TV, and that plastic film that my friends never take off of their electronics.
 
 <img src="assets/SCBAwhat.jpeg" width="120px" > I also volunteer on my local fire department. I am trained in CPR, Basic Life Support, and first aid as well as extrication and traffic incident management - and, as it turns out, I can still manage to look goofy in structural gear.
 
@@ -46,10 +46,10 @@ I'm a Linux fan but I like to play games too, and while you can play most titles
 ### My favorite Linux distros:
 
 * Fedora (RHEL) with KDE Plasma Desktop - My daily driver. Beautiful, powerful, and easy to use. No wonder Linus uses it.
-* Ubuntu Budgie - Highly customizable and easy to use with some really nice quality of life features
-* Garuda KDE Dr460nized (Arch) - The OS made for Linux Gamers
-* Manjaro (Arch) Gnome - Highly polished and easy to use Arch distro
-* PeppermintOS (Debian) - super lightweight, yet powerful and fully featured. I run this on one of my decade+ old computers, of which I have a few - can't seem to get rid of them.
+* Ubuntu Budgie - Highly customizable and easy to use with some really nice quality of life features.
+* Garuda KDE Dr460nized (Arch) - The OS made for Linux Gamers.
+* Manjaro (Arch) Gnome - Highly polished and easy to use Arch distro.
+* PeppermintOS (Debian) - Super lightweight, yet powerful and fully featured. I run this on one of my decade+ old computers, of which I have a few - can't seem to get rid of them.
 
 ## Some of my favorite resources for learning about web development
 <hr/>
