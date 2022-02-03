@@ -233,9 +233,10 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
       </tbody>
     </table>
 <a name="libraries"></a>
+
 ---
 
-### Some of my favorite libraries
+### My favorite libraries
 
 <table>
   <tr>
@@ -354,6 +355,7 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
 ---
 
 ### Some of my favorite people and resources for learning
+This is anything but an exhaustive list.
 
 - [freeCodeCamp](https://www.freecodecamp.org)
 - [Wes Bos](https://wesbos.com)
