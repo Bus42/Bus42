@@ -1,7 +1,5 @@
-[About](#about)
-[Books](#books)
-[Linux](#linux)
-[Learning](#learning)
+| [About](#about) | [Books](#books) | [Linux](#linux) | [Learning](#learning) |
+| :--: | :--: | :--: | :--: |
 
 # <table style="border-spacing: 4px" width="100%"><tr><td><img src="assets/dog_selfie.jpg" width="120px" style="border-radius: 8px" /></td><td>Hi, I'm Greg and I like to make things</td></tr></table>
 
