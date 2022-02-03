@@ -1,4 +1,4 @@
-# [<img src="assets/dog_selfie.jpg" width="120px" style="border-radius: 8px" >](https://portfolio.studio42dev.com) Hi, I'm Greg and I like to make things
+# [<img src="assets/dog_selfie.jpg" width="120px" style="border-radius: 8px" />](https://portfolio.studio42dev.com) Hi, I'm Greg and I like to make things
 
 ## My Journey
 
@@ -7,13 +7,13 @@ I started learning to code in 2016 when I took a course from EdX called LFS 101 
 
 Being a single father who worked 12 hour days, I didn't have a lot of time to devote to learning. However, I built several projects, some of which you can view on [my portfolio](https://portfolio.studio42dev.com), and earned the following certifications from freeCodeCamp during that time:
 
-<img src="assets/certificate.svg" width="45px" > [Front End (Legacy)](https://www.freecodecamp.org/certification/bus42/legacy-front-end)
+<img src="assets/certificate.svg" width="45px" /> [Front End (Legacy)](https://www.freecodecamp.org/certification/bus42/legacy-front-end)
 
-<img src="assets/certificate.svg" width="45px" > [Front End Development Libraries](https://www.freecodecamp.org/certification/bus42/front-end-development-libraries)
+<img src="assets/certificate.svg" width="45px" /> [Front End Development Libraries](https://www.freecodecamp.org/certification/bus42/front-end-development-libraries)
 
-<img src="assets/certificate.svg" width="45px" > [Responsive Web Design](https://www.freecodecamp.org/certification/bus42/responsive-web-design)
+<img src="assets/certificate.svg" width="45px" /> [Responsive Web Design](https://www.freecodecamp.org/certification/bus42/responsive-web-design)
 
-<img src="assets/certificate.svg" width="45px" > [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/bus42/javascript-algorithms-and-data-structures)
+<img src="assets/certificate.svg" width="45px" /> [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/bus42/javascript-algorithms-and-data-structures)
 
 Since then, my kids have grown and I have focused on JavaScript development in React and Node in a Linux environment. I spent long enough learning on my own and am now a student at Bloom Institute of Technology studying computer science and full-stack development with a focus on React, Node, SQL, and Agile methodologies.
 
@@ -25,11 +25,11 @@ While completing my education, I am freelancing as [Studio42Dev](https://studio4
 
 ### Some of my favorite books:
 
-<img src="assets/book.png" width="40px" > Dune
+<img src="assets/book.png" width="40px" /> Dune
 
-<img src="assets/book.png" width="40px" > Hitchhikers Guide to the Galaxy
+<img src="assets/book.png" width="40px" /> Hitchhikers Guide to the Galaxy
 
-<img src="assets/book.png" width="40px" > War and Peace
+<img src="assets/book.png" width="40px" /> War and Peace
 
 I love ThunderCats, Star Wars, Robot Chicken, and documentaries.
 
@@ -41,7 +41,7 @@ I've only seen the first three Harry Potter movies, and I'm good with that.
 
 I vehemently dislike auto-tune, reality TV, and that plastic film that my friends never take off of their electronics.
 
-<img src="assets/SCBAwhat.jpeg" width="120px" style="border-radius: 8px" > I also volunteer on my local fire department. I am trained in CPR, Basic Life Support, and first aid as well as extrication and traffic incident management - and, as it turns out, I can still manage to look goofy in structural gear.
+<img src="assets/SCBAwhat.jpeg" width="120px" style="border-radius: 8px" /> I also volunteer on my local fire department. I am trained in CPR, Basic Life Support, and first aid as well as extrication and traffic incident management - and, as it turns out, I can still manage to look goofy in structural gear.
 
 I'm a Linux fan but I like to play games too, and while you can play most titles on Linux, you can't play them all so I dual-boot on my PC. Also, I must like suffering because I dual-boot on my PC _and_ do my own mechanical work on my Volkswagen.
 
