@@ -1,4 +1,4 @@
-# [<img src="assets/dogselfie.jpg" width="120px" >](https://portfolio.studio42dev.com) Hi, I'm Greg and I like to make things
+# [<img src="assets/dog_selfie.jpg" width="120px" >](https://portfolio.studio42dev.com) Hi, I'm Greg and I like to make things
 
 ## My Journey
 <hr/>
