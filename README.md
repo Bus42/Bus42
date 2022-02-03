@@ -1,3 +1,4 @@
+[About](#about)
 [Books](#books)
 [Linux](#linux)
 [Learning](#learning)
@@ -6,7 +7,6 @@
 
 My Journey
 
----
 
 I started learning to code in the summer of 2016 when I took a course from EdX called LFS 101 - Linux for Starters. I enjoyed coding and decided I'd learn HTML, CSS, and JavaScript. I spent a year learning vanilla JS and CSS before moving on to jQuery and Bootstrap so I knew what was happening _under the hood_. It wasn't long before I started learning Git and GitHub.
 
@@ -79,10 +79,10 @@ Being a single father who worked 12 hour days, I didn't have a lot of time to de
 Since then, my kids have grown and I have focused on JavaScript development in React and Node in a Linux environment. I spent long enough learning on my own and am now a student at Bloom Institute of Technology studying computer science and full-stack development with a focus on React, Node, SQL, and Agile methodologies.
 
 While completing my education, I am freelancing as [Studio42 Dev](https://studio42dev.com). I build small websites, apps, and other projects for clients. My latest project is a serverless app that is built with React and ChakraUI and is deployed on Vercel.
-
-## About Me
+<a name="about"></a>
 
 ---
+## About Me
 
 <table style="border-spacing: 4px" width="100%">
     <tbody>
