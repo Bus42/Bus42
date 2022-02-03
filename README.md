@@ -2,7 +2,7 @@
 
 ## My Journey
 <hr/>
-I started learning to code in 2016 when I took a course from EdX called LFS 101 - Linux for Starters. I enjoyed coding and decided I'd learn *HTML*, *CSS*, and *JavaScript*. I spent a year learning vanilla JS and CSS before moving on to *jQuery* and *Bootstrap* so I knew what was happening *under the hood*. It wasn't long before I started learning *Git* and *GitHub*.
+I started learning to code in 2016 when I took a course from EdX called LFS 101 - Linux for Starters. I enjoyed coding and decided I'd learn _HTML_, _CSS_, and _JavaScript_. I spent a year learning vanilla JS and CSS before moving on to _jQuery_ and _Bootstrap_ so I knew what was happening *under the hood*. It wasn't long before I started learning _Git_ and _GitHub_.
 
 Being a single father who worked 12 hour days, I didn't have a lot of time to devote to learning. However, I built several projects, some of which you can view on [my portfolio](https://portfolio.studio42dev.com), and earned the following certifications from freeCodeCamp during that time:
 
@@ -14,9 +14,9 @@ Being a single father who worked 12 hour days, I didn't have a lot of time to de
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Certificate_%2889083%29_-_The_Noun_Project.svg" width="45px" > [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/bus42/javascript-algorithms-and-data-structures)
 
-Since then, my kids have grown and I have focused on JavaScript development in React and Node in a *Linux* environment. I spent long enough learning on my own and am now a student at Bloom Institute of Technology studying computer science and full-stack development with a focus on *React*, *Node*, *SQL*, and *Agile* methodologies.
+Since then, my kids have grown and I have focused on JavaScript development in React and Node in a _Linux_ environment. I spent long enough learning on my own and am now a student at Bloom Institute of Technology studying computer science and full-stack development with a focus on _React_, _Node_, _SQL_, and _Agile_ methodologies.
 
-While completing my education, I am freelancing as [Studio42Dev](https://studio42dev.com). I build small websites, apps, and other projects for clients. My latest project is a serverless app that is built with *React* and *ChakraUI* and is deployed on *Vercel*.
+While completing my education, I am freelancing as [Studio42Dev](https://studio42dev.com). I build small websites, apps, and other projects for clients. My latest project is a serverless app that is built with _React_ and _ChakraUI_ and is deployed on _Vercel_.
 
 ## About Me
 <hr/>
