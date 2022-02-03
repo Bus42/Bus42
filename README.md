@@ -157,7 +157,10 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
           </td>
           <td>
             <a href="https://getfedora.org/">Fedora</a> (RHEL) with KDE Plasma
-            Desktop - My daily driver. Beautiful, powerful, and easy to use. No
+            Desktop
+          </td>
+          <td>
+          My daily driver. Beautiful, powerful, and easy to use. No
             wonder Linus uses it.
           </td>
         </tr>
@@ -170,7 +173,10 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
             />
           </td>
           <td>
-            <a href="https://ubuntubudgie.org">Ubuntu Budgie</a> Highly
+            <a href="https://ubuntubudgie.org">Ubuntu Budgie</a> 
+          </td>
+          <td>
+          Highly
             customizable and easy to use with some really nice quality of life
             features.
           </td>
@@ -185,7 +191,10 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
           </td>
           <td>
             <a href="https://garudalinux.org/index.html">Garuda</a> KDE
-            Dr460nized (Arch) - The OS made for Linux Gamers
+            Dr460nized (Arch)
+          </td>
+          <td>
+            The OS made for Linux Gamers
           </td>
         </tr>
         <tr>
@@ -197,7 +206,10 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
             />
           </td>
           <td>
-            <a href="https://manjaro.org/">Manjaro</a> (Arch) Gnome - Highly
+            <a href="https://manjaro.org/">Manjaro</a> (Arch) Gnome
+          </td>
+          <td>
+          Highly
             polished and easy to use Arch distro.
           </td>
         </tr>
@@ -210,8 +222,10 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
             />
           </td>
           <td>
-            <a href="https://peppermintos.com/">PeppermintOS</a> (Debian) -
-            Super lightweight, yet powerful and fully featured. I run this on
+            <a href="https://peppermintos.com/">PeppermintOS</a> (Debian)
+          </td>
+          <td>
+          Super lightweight, yet powerful and fully featured. I run this on
             one of my decade+ old computers, of which I have a few - can't seem
             to get rid of them.
           </td>
