@@ -1,7 +1,8 @@
+<a name="top"></a>
 | [About](#about) | [Books](#books) | [Linux](#linux) | [Libraries](#libraries) | [Resources](#resources) |
 | :-------------: | :-------------: | :-------------: | :---------------------: | :---------------------: |
 
-# <table style="border-spacing: 4px" width="100%"><tr><td><img src="assets/dog_selfie.jpg" width="120px" style="border-radius: 8px" /></td><td>Hi, I'm Greg and I like to make things</td></tr></table>
+# <table style="border-spacing: 4px" width="100%"><tr><td><img src="assets/dog_selfie.jpg" width="120px" style="border-radius: 10px" /></td><td>Hi, I'm Greg and I like to make things</td></tr></table>
 
 ## My Journey
 
@@ -17,7 +18,7 @@ Being a single father who worked 12 hour days, I didn't have a lot of time to de
         src="/assets/bus42.jpg"
         alt="bus42"
         width="180px"
-        style="border-radius: 8px"
+        style="border-radius: 10px"
         />
 This is where it all started. Bus number 42.
 </td>
@@ -105,7 +106,7 @@ While completing my education, I am freelancing as [Studio42 Dev](https://studio
                 <img
                   src="assets/SCBAwhat.jpeg"
                   width="360px"
-                  style="border-radius: 8px"
+                  style="border-radius: 10px"
                 />
             </td>
             <td>
@@ -383,3 +384,13 @@ This is anything but an exhaustive list.
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [Eloquent JavaScript](https://eloquentjavascript.net)
 - [Web Dev Simplified](https://m.youtube.com/c/WebDevSimplified)
+
+---
+<img 
+  src="assets/solongandthanksforallthefish.jpg"
+  style="width: 100%; display: block; margin: 0 auto; border-radius: 10px"
+  alt="So Long and Thanks for All the Fish"
+/>
+
+So long, and thanks for all the fish!
+[<img src="assets/up_arrow.svg" alt="return to top of page" width="40px" />](#top)
