@@ -10,8 +10,16 @@
     --borderRadius: 5px;
 }
 
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: space-evenly;
+    justify-content: center;
+    width: 800px;
+    margin: 0 auto;
+}
+
 img {
-    /* default image settings */
     width: var(--image-width);
     border-radius: var(--borderRadius);
 }
@@ -20,9 +28,9 @@ img {
     width: var(--small-image);
 }
 
-p {
+/* p {
     margin: 1em;
-}
+} */
 
 body {
     font-family: var(--body);
@@ -55,30 +63,30 @@ nav > ul > li > a {
     color: #fff;
 }
 
-.banner {
+/* .banner {
     display: flex;
     justify-content: center;
     align-items: center;
-}
+} */
 
-.banner > img {
+/* .banner > img {
     width: var(--image-width);
     border-radius: var(--borderRadius);
-}
+} */
 
-.banner > h1 {
+/* .banner > h1 {
     width: calc(100% - var(--image-width));
     text-align: center;
-}
-
+} */
+/* 
 br {
     clear: both;
-}
+} */
 
-.journey {
+/* .journey {
     display: flex;
     justify-content: center;
     align-items: center;
-}
+} */
 
 
