@@ -390,3 +390,12 @@ This is anything but an exhaustive list.
 
 So long, and thanks for all the fish!
 [<img src="assets/up_arrow.svg" alt="return to top of page" width="40px" />](#top)
+
+
+
+<iframe
+  src="https://bus42.github.io/tictactoe/"
+  width="500px"
+  height="500px"
+  style="border: none; display: block; margin: 0 auto; border-radius: 10px"
+></iframe>
