@@ -2,29 +2,13 @@
 | [About](#about) | [Books](#books) | [Linux](#linux) | [Libraries](#libraries) | [Resources](#resources) |
 | :-------------: | :-------------: | :-------------: | :---------------------: | :---------------------: |
 
-# <table style="border-spacing: 4px" width="100%"><tr><td><img src="assets/dog_selfie.jpg" width="120px" style="border-radius: 10px" /></td><td>Hi, I'm Greg and I like to make things</td></tr></table>
+# <table style="border-spacing: 4px" width="100%"><tr><td><img src="assets/dog_selfie.jpg" width="120px" style="border-radius: 10px" /></td><td>Hi, I'm Greg and I like to make things</td><td><img src="/assets/bus42.jpg" alt="bus42" width="180px" style="border-radius: 10px" />This is where it all started. Bus number 42.</td></tr></table>
 
 ## My Journey
 
-<table>
-  <tr>
-    <td>
-    I started learning to code in the summer of 2016 when I took a course from EdX called LFS 101 - Linux for Starters. I enjoyed coding and decided I'd learn HTML, CSS, and JavaScript. I spent a year learning vanilla JS and CSS before moving on to jQuery and Bootstrap so I knew what was happening <em>under the hood</em>. It wasn't long before I started learning Git and GitHub.
+I started learning to code in the summer of 2016 when I took a course from EdX called LFS 101 - Linux for Starters. I enjoyed coding and decided I'd learn HTML, CSS, and JavaScript. I spent a year learning vanilla JS and CSS before moving on to jQuery and Bootstrap so I knew what was happening <em>under the hood</em>. It wasn't long before I started learning Git and GitHub.
 
 Being a single father who worked 12 hour days, I didn't have a lot of time to devote to learning. However, I built several projects, some of which you can view on [my portfolio](https://portfolio.studio42dev.com), and earned the following certifications from freeCodeCamp during that time:
-</td>
-<td>
-<img 
-        src="/assets/bus42.jpg"
-        alt="bus42"
-        width="180px"
-        style="border-radius: 10px"
-        />
-This is where it all started. Bus number 42.
-</td>
-
-  </tr>
-</table>
 
 <table style="border-spacing: 4px" width="100%">
 <tbody>
