@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@600&family=Comforter&family=Ubuntu&display=swap');
+
+:root {
+    --image-width: 160px;
+    --small-image: 40px;
+    --gray: #424242;
+    --heading: 'Baloo Bhaijaan 2', cursive;
+    --writing: 'Comforter', cursive;
+    --body: 'Ubuntu', sans-serif;
+    --borderRadius: 5px;
+}
+
+img {
+    /* default image settings */
+    width: var(--image-width);
+    border-radius: var(--borderRadius);
+}
+
+.small {
+    width: var(--small-image);
+}
+
+p {
+    margin: 1em;
+}
+
+body {
+    font-family: var(--body);
+    background-color: #def;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--heading);
+}
+
+.writing {
+    font-family: var(--writing);
+}
+
+nav > ul {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+}
+
+nav > ul > li {
+    padding: 10px;
+    margin: .5em;
+    background-color: var(--gray);
+    border-radius: var(--borderRadius);
+}
+
+nav > ul > li > a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner > img {
+    width: var(--image-width);
+    border-radius: var(--borderRadius);
+}
+
+.banner > h1 {
+    width: calc(100% - var(--image-width));
+    text-align: center;
+}
+
+br {
+    clear: both;
+}
+
+.journey {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
