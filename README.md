@@ -390,3 +390,10 @@ This is anything but an exhaustive list.
 
 So long, and thanks for all the fish!
 [<img src="assets/up_arrow.svg" alt="return to top of page" width="40px" />](#top)
+
+Since you stuck around, here's a poorly edited video I made as as part of the Career Readiness portion of my Bloom Institute of Technology curriculum:
+
+
+https://user-images.githubusercontent.com/20022081/153273447-d2d82557-d762-4eca-b786-b12cbc891f9a.mp4
+
+
