@@ -34,6 +34,7 @@ This is where it all started. Bus number 42.
 <td>
 <a
               href="https://www.freecodecamp.org/certification/bus42/legacy-front-end"
+              target="_new_window"
               >Front End (Legacy)</a
             >
 </td>
@@ -49,6 +50,7 @@ This is where it all started. Bus number 42.
 <td>
 <a
               href="https://www.freecodecamp.org/certification/bus42/front-end-development-libraries"
+              target="_new_window"
               >Front End Development Libraries</a
             >
 </td>
@@ -64,6 +66,7 @@ This is where it all started. Bus number 42.
 <td>
 <a
               href="https://www.freecodecamp.org/certification/bus42/responsive-web-design"
+              target="_new_window"
               >Responsive Web Design</a
             >
 </td>
@@ -79,6 +82,7 @@ This is where it all started. Bus number 42.
 <td>
 <a
               href="https://www.freecodecamp.org/certification/bus42/javascript-algorithms-and-data-structures"
+              target="_new_window"
               >JavaScript Algorithms and Data Structures</a
             >
 </td>
@@ -132,19 +136,23 @@ While completing my education, I am freelancing as [Studio42 Dev](https://studio
     <tbody>
         <tr>
           <td><img src="assets/book.png" alt="book icon" width="40px" /></td>
-          <td><a href="https://en.wikipedia.org/wiki/Dune_(novel)" >Dune</a></td>
+          <td><a href="https://en.wikipedia.org/wiki/Dune_(novel)"
+              target="_new_window" >Dune</a></td>
         </tr>
         <tr>
           <td><img src="assets/book.png" alt="book icon" width="40px" /></td>
-          <td><a href="https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(novel)" >Hitchhikers Guide to the Galaxy</a></td>
+          <td><a href="https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(novel)"
+              target="_new_window" >Hitchhikers Guide to the Galaxy</a></td>
         </tr>
         <tr>
           <td><img src="assets/book.png" alt="book icon" width="40px" /></td>
-          <td><a href="https://en.wikipedia.org/wiki/War_and_Peace" >War and Peace</a></td>
+          <td><a href="https://en.wikipedia.org/wiki/War_and_Peace"
+              target="_new_window" >War and Peace</a></td>
         </tr>
         <tr>
           <td><img src="assets/book.png" alt="book icon" width="40px" /></td>
-          <td><a href="https://en.wikipedia.org/wiki/The_Pearl_(novella)" >The Pearl</a></td>
+          <td><a href="https://en.wikipedia.org/wiki/The_Pearl_(novella)"
+              target="_new_window" >The Pearl</a></td>
         </tr>
     </tbody>
 </table>
@@ -168,7 +176,8 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
             />
           </td>
           <td>
-            <a href="https://getfedora.org/">Fedora</a> (RHEL) with KDE Plasma
+            <a href="https://getfedora.org/"
+              target="_new_window">Fedora</a> (RHEL) with KDE Plasma
             Desktop
           </td>
           <td>
@@ -185,7 +194,8 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
             />
           </td>
           <td>
-            <a href="https://ubuntubudgie.org">Ubuntu Budgie</a> 
+            <a href="https://ubuntubudgie.org"
+              target="_new_window">Ubuntu Budgie</a> 
           </td>
           <td>
           Highly
@@ -202,7 +212,8 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
             />
           </td>
           <td>
-            <a href="https://garudalinux.org/index.html">Garuda</a> KDE
+            <a href="https://garudalinux.org/index.html"
+              target="_new_window">Garuda</a> KDE
             Dr460nized (Arch)
           </td>
           <td>
@@ -218,7 +229,8 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
             />
           </td>
           <td>
-            <a href="https://manjaro.org/">Manjaro</a> (Arch) Gnome
+            <a href="https://manjaro.org/"
+              target="_new_window">Manjaro</a> (Arch) Gnome
           </td>
           <td>
           Highly
@@ -234,7 +246,8 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
             />
           </td>
           <td>
-            <a href="https://peppermintos.com/">PeppermintOS</a> (Debian)
+            <a href="https://peppermintos.com/"
+              target="_new_window">PeppermintOS</a> (Debian)
           </td>
           <td>
           Super lightweight, yet powerful and fully featured. I run this on
@@ -260,7 +273,8 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
       />
     </td>
     <td>
-      <a href="https://reactjs.org/">React</a>
+      <a href="https://reactjs.org/"
+              target="_new_window">React</a>
     </td>
     <td>
     The best JavaScript library
@@ -276,7 +290,8 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
       />
     </td>
     <td>
-      <a href="https://chakra-ui.com/">Chakra UI</a>
+      <a href="https://chakra-ui.com/"
+              target="_new_window">Chakra UI</a>
     </td>
     <td>
       A beautiful, accessible, and performant UI library for React.
@@ -291,7 +306,8 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
         />
         </td>
         <td>
-        <a href="https://materializecss.com/">Materialize CSS</a>
+        <a href="https://materializecss.com/"
+              target="_new_window">Materialize CSS</a>
         </td>
         <td>
         A responsive, mobile-first front-end framework based on Material Design.
@@ -306,7 +322,8 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
         />
         </td>
         <td>
-        <a href="https://expressjs.com/">Express.js</a>
+        <a href="https://expressjs.com/"
+              target="_new_window">Express.js</a>
         </td>
         <td>
         A minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
@@ -322,7 +339,8 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
         />
         </td>
         <td>
-        <a href="https://sass-lang.com/">Sass</a>
+        <a href="https://sass-lang.com/"
+              target="_new_window">Sass</a>
         </td>
         <td>
         A CSS pre-processor, written in Ruby.
@@ -338,7 +356,8 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
         />
         </td>
         <td>
-        <a href="https://greensock.com/gsap-js/">GSAP</a>
+        <a href="https://greensock.com/gsap-js/"
+              target="_new_window">GSAP</a>
         </td>
         <td>
         A library of animation and transformation effects for the web.
@@ -354,7 +373,8 @@ I love ThunderCats, Star Wars, Robot Chicken, and documentaries. I love cooking,
         />
         </td>
         <td>
-        <a href="https://knexjs.org/">Knex.js</a>
+        <a href="https://knexjs.org/"
+              target="_new_window">Knex.js</a>
         </td>
         <td>
         A query builder for PostgreSQL, MySQL, MariaDB, SQLite and Microsoft SQL Server.
