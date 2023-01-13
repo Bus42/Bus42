@@ -91,7 +91,7 @@ This is where it all started. Bus number 42.
 </table>
 Since then, my kids have grown and I have focused on JavaScript development in React and Node in a Linux environment. I spent long enough learning on my own and am now a student at Bloom Institute of Technology studying computer science and full-stack development with a focus on React, Node, SQL, and Agile methodologies.
 
-While completing my education, I am freelancing as [Studio42 Dev](https://studio42dev.com). I build small websites, apps, and other projects for clients. My latest project is a serverless app that is built with React and ChakraUI and is deployed on Vercel.
+I have now Earned my Full-Stack Web Development certification from Bloomtech and I am freelancing as [Studio42 Dev](https://studio42dev.com). I build small websites, apps, and other projects for clients including APIs, databases, and mobile applications built in Flutter.
 <a name="about"></a>
 
 ---
@@ -101,11 +101,11 @@ While completing my education, I am freelancing as [Studio42 Dev](https://studio
 <table style="border-spacing: 4px" width="100%">
     <tbody>
         <tr>
-            <td>
-                <img
-                  src="assets/SCBAwhat.jpeg"
-                  width="360px"
-                  style="border-radius: 10px"
+          <td>
+            <img
+                 src="assets/SCBAwhat.jpeg"
+                 width="360px"
+                 style="border-radius: 10px"
                 />
             </td>
             <td>
@@ -116,12 +116,18 @@ While completing my education, I am freelancing as [Studio42 Dev](https://studio
                 management. As it turns out, I can still manage to look goofy in
                 structural gear.
                 </p>
-            <p>
-              I'm a Linux fan but I like to play games too, and while you can
-              play most titles on Linux, you can't play them all so I dual-boot
-              on my PC. Also, I must like suffering because I dual-boot on my PC
-              <em>and</em> do my own mechanical work on my Volkswagen.
-            </p>
+                <p>
+                  I also serve on the board of the Colorado State Fire Fighters
+                  Association as the District 2 Representative and volunteer with
+                  the American Red Cross as a Shelter DCS (Disaster Cycle Services)
+                  Member and DAT (Disaster Action Team) Service Associate.
+                </p>
+                <p>
+                  I'm a Linux fan but I like to play games too, and while you can
+                  play most titles on Linux, you can't play them all so I dual-boot
+                  on my PC. Also, I must like suffering because I dual-boot on my PC
+                  <em>and</em> do my own mechanical work on my Volkswagen.
+                </p>
           </td>
         </tr>
     </tbody>
